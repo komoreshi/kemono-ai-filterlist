@@ -681,5 +681,16 @@
   "patreon_97150727",
   "patreon_111637581",
   "patreon_128617885",
-  "patreon_130275118"
+  "patreon_130275118",
+  "fanbox_39421182",
+  "fanbox_31966485",
+  "patreon_84671738",
+  "patreon_93183597",
+  "patreon_96863659",
+  "patreon_83525857",
+  "gumroad_2800470689764",
+  "patreon_10029072",
+  "fanbox_87864514",
+  "patreon_68439985",
+  "patreon_92376287"
 ]
