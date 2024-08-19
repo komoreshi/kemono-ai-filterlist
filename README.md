@@ -1,4 +1,4 @@
-# Kemono Creator Filterlist
+# Kemono AI Filterlist
 
 Curated list of "AI creators" to hide on Kemono.
 
