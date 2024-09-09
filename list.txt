@@ -1725,5 +1725,9 @@
   "patreon_125366226",
   "patreon_128501070",
   "patreon_120762790",
-  "patreon_10869469"
+  "patreon_10869469",
+  "patreon_26947743",
+  "patreon_135298579",
+  "patreon_98646506",
+  "patreon_107925705"
 ]
