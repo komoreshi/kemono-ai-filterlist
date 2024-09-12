@@ -1729,5 +1729,7 @@
   "patreon_26947743",
   "patreon_135298579",
   "patreon_98646506",
-  "patreon_107925705"
+  "patreon_107925705",
+  "patreon_92975049",
+  "patreon_92103184"
 ]
