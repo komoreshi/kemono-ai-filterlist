@@ -1731,5 +1731,19 @@
   "patreon_98646506",
   "patreon_107925705",
   "patreon_92975049",
-  "patreon_92103184"
+  "patreon_92103184",
+  "patreon_112118717",
+  "patreon_58988996",
+  "fanbox_93602299",
+  "patreon_88785259",
+  "patreon_94793440",
+  "patreon_91061103",
+  "patreon_6550963",
+  "fanbox_87616168",
+  "patreon_105786887",
+  "patreon_60581593",
+  "patreon_126897704",
+  "patreon_64106453",
+  "patreon_130617443",
+  "patreon_8706952"
 ]
