@@ -1769,5 +1769,18 @@
   "patreon_131704782",
   "patreon_90997480",
   "patreon_43350951",
-  "patreon_83027922"
+  "patreon_83027922",
+  "patreon_123749481",
+  "patreon_95567999",
+  "patreon_128491789",
+  "patreon_93884365",
+  "patreon_88489300",
+  "fanbox_36020456",
+  "patreon_102556171",
+  "patreon_127378898",
+  "patreon_93273226",
+  "patreon_74474586",
+  "fanbox_88164749",
+  "fanbox_17900403",
+  "fanbox_17900403"
 ]
