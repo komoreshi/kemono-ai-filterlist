@@ -2377,5 +2377,14 @@
   "patreon_14201935",
   "fanbox_17079070",
   "fanbox_36887544",
-  "fanbox_597115"
+  "fanbox_597115",
+  "fanbox_8018797",
+  "patreon_33547671",
+  "fanbox_88964044",
+  "patreon_90472145",
+  "patreon_113183752",
+  "patreon_96753130",
+  "patreon_10182344",
+  "patreon_123110764",
+  "patreon_94430184"
 ]
