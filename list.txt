@@ -2819,5 +2819,19 @@
   "patreon_14089768",
   "patreon_130896267",
   "patreon_127429317",
-  "patreon_93272756"
+  "patreon_93272756",
+  "patreon_91175892",
+  "patreon_137478539",
+  "patreon_103820332",
+  "patreon_87732235",
+  "patreon_147800651",
+  "patreon_138866548",
+  "patreon_12421587",
+  "patreon_106336988",
+  "patreon_141012731",
+  "patreon_138375032",
+  "patreon_91409710",
+  "patreon_125658457",
+  "patreon_129054550",
+  "patreon_98274856"
 ]
