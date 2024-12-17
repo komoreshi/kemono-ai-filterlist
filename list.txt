@@ -2950,5 +2950,18 @@
   "patreon_141480193",
   "patreon_31716734",
   "patreon_139090210",
-  "patreon_145458646"
+  "patreon_145458646",
+  "patreon_87958196",
+  "patreon_147871273",
+  "patreon_41137855",
+  "patreon_86765744",
+  "patreon_80230136",
+  "patreon_109196365",
+  "patreon_92868241",
+  "patreon_129134953",
+  "patreon_31029536",
+  "patreon_29814410",
+  "patreon_103886745",
+  "patreon_149903012",
+  "discord_1119673525112946769"
 ]
