@@ -3106,5 +3106,16 @@
   "discord_1318211916354818098",
   "patreon_98986696",
   "patreon_137314662",
-  "patreon_139171969"
+  "patreon_139171969",
+  "patreon_134196961",
+  "patreon_140774686",
+  "patreon_17242427",
+  "patreon_147389463",
+  "patreon_129006704",
+  "patreon_139604889",
+  "patreon_100934566",
+  "discord_1151820297419370558",
+  "patreon_132868406",
+  "patreon_93341631",
+  "patreon_120930093"
 ]
