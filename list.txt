@@ -3726,5 +3726,22 @@
   "patreon_119806898",
   "patreon_139607917",
   "patreon_155508659",
-  "discord_1323136572161396827"
+  "discord_1323136572161396827",
+  "patreon_162239963",
+  "patreon_153471944",
+  "patreon_141602440",
+  "patreon_7351290",
+  "patreon_129867809",
+  "patreon_122299208",
+  "patreon_156975958",
+  "patreon_103296697",
+  "patreon_150895011",
+  "patreon_134247763",
+  "patreon_141663947",
+  "patreon_147761411",
+  "patreon_8924844",
+  "patreon_93424671",
+  "patreon_69581452",
+  "patreon_147896055",
+  "patreon_131627658"
 ]
