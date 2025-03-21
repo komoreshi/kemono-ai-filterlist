@@ -3759,5 +3759,19 @@
   "patreon_158380760",
   "patreon_70378864",
   "patreon_130017798",
-  "patreon_159494225"
+  "patreon_159494225",
+  "patreon_97288792",
+  "patreon_155835355",
+  "patreon_148836882",
+  "patreon_150223726",
+  "patreon_134167525",
+  "patreon_139267356",
+  "patreon_154756815",
+  "patreon_161516721",
+  "patreon_110251733",
+  "patreon_94802680",
+  "patreon_163808511",
+  "patreon_156849753",
+  "patreon_85155161",
+  "patreon_150621603"
 ]
