@@ -4218,5 +4218,9 @@
   "patreon_133419565",
   "patreon_122496543",
   "patreon_74720815",
-  "patreon_152778406"
+  "patreon_152778406",
+  "patreon_78548192",
+  "patreon_68497011",
+  "patreon_150875375",
+  "patreon_118674815"
 ]
